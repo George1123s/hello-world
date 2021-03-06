@@ -6,3 +6,4 @@
 
 [这个菜鸡真是太菜啦！](https://github.com/George1123s)
 
+为什么 George1123 这么菜啊 `/kel`。
