@@ -6,4 +6,3 @@
 
 [这个菜鸡真是太菜啦！](https://github.com/George1123s)
 
-加了一句话！
